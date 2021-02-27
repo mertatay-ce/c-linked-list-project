@@ -1,0 +1,486 @@
+--------------------
+- Plaka KODU: 1 ---
+- Kent Isim: Adana ----
+- Kent Bolge: AK ---
+- Komsu Sayisi: 6 -
+--------------------
+--------------------
+- Plaka KODU: 2 ---
+- Kent Isim: Adiyaman ----
+- Kent Bolge: GA ---
+- Komsu Sayisi: 5 -
+--------------------
+--------------------
+- Plaka KODU: 3 ---
+- Kent Isim: Afyon ----
+- Kent Bolge: EG ---
+- Komsu Sayisi: 7 -
+--------------------
+--------------------
+- Plaka KODU: 4 ---
+- Kent Isim: Agri ----
+- Kent Bolge: DA ---
+- Komsu Sayisi: 6 -
+--------------------
+--------------------
+- Plaka KODU: 5 ---
+- Kent Isim: Amasya ----
+- Kent Bolge: KA ---
+- Komsu Sayisi: 4 -
+--------------------
+--------------------
+- Plaka KODU: 6 ---
+- Kent Isim: Ankara ----
+- Kent Bolge: IA ---
+- Komsu Sayisi: 7 -
+--------------------
+--------------------
+- Plaka KODU: 7 ---
+- Kent Isim: Antalya ----
+- Kent Bolge: AK ---
+- Komsu Sayisi: 6 -
+--------------------
+--------------------
+- Plaka KODU: 8 ---
+- Kent Isim: Artvin ----
+- Kent Bolge: KA ---
+- Komsu Sayisi: 3 -
+--------------------
+--------------------
+- Plaka KODU: 9 ---
+- Kent Isim: Aydin ----
+- Kent Bolge: EG ---
+- Komsu Sayisi: 4 -
+--------------------
+--------------------
+- Plaka KODU: 10 ---
+- Kent Isim: Balikesir ----
+- Kent Bolge: EG ---
+- Komsu Sayisi: 5 -
+--------------------
+--------------------
+- Plaka KODU: 11 ---
+- Kent Isim: Bilecik ----
+- Kent Bolge: MA ---
+- Komsu Sayisi: 5 -
+--------------------
+--------------------
+- Plaka KODU: 12 ---
+- Kent Isim: Bingol ----
+- Kent Bolge: DA ---
+- Komsu Sayisi: 6 -
+--------------------
+--------------------
+- Plaka KODU: 13 ---
+- Kent Isim: Bitlis ----
+- Kent Bolge: DA ---
+- Komsu Sayisi: 5 -
+--------------------
+--------------------
+- Plaka KODU: 14 ---
+- Kent Isim: Bolu ----
+- Kent Bolge: KA ---
+- Komsu Sayisi: 7 -
+--------------------
+--------------------
+- Plaka KODU: 15 ---
+- Kent Isim: Burdur ----
+- Kent Bolge: AK ---
+- Komsu Sayisi: 5 -
+--------------------
+--------------------
+- Plaka KODU: 16 ---
+- Kent Isim: Bursa ----
+- Kent Bolge: MA ---
+- Komsu Sayisi: 6 -
+--------------------
+--------------------
+- Plaka KODU: 17 ---
+- Kent Isim: Canakkale ----
+- Kent Bolge: MA ---
+- Komsu Sayisi: 3 -
+--------------------
+--------------------
+- Plaka KODU: 18 ---
+- Kent Isim: Cankiri ----
+- Kent Bolge: IA ---
+- Komsu Sayisi: 7 -
+--------------------
+--------------------
+- Plaka KODU: 19 ---
+- Kent Isim: Corum ----
+- Kent Bolge: KA ---
+- Komsu Sayisi: 7 -
+--------------------
+--------------------
+- Plaka KODU: 20 ---
+- Kent Isim: Denizli ----
+- Kent Bolge: EG ---
+- Komsu Sayisi: 6 -
+--------------------
+--------------------
+- Plaka KODU: 21 ---
+- Kent Isim: Diyarbakir ----
+- Kent Bolge: GA ---
+- Komsu Sayisi: 8 -
+--------------------
+--------------------
+- Plaka KODU: 22 ---
+- Kent Isim: Edirne ----
+- Kent Bolge: MA ---
+- Komsu Sayisi: 3 -
+--------------------
+--------------------
+- Plaka KODU: 23 ---
+- Kent Isim: Elazig ----
+- Kent Bolge: DA ---
+- Komsu Sayisi: 5 -
+--------------------
+--------------------
+- Plaka KODU: 24 ---
+- Kent Isim: Erzincan ----
+- Kent Bolge: DA ---
+- Komsu Sayisi: 9 -
+--------------------
+--------------------
+- Plaka KODU: 25 ---
+- Kent Isim: Erzurum ----
+- Kent Bolge: DA ---
+- Komsu Sayisi: 10 -
+--------------------
+--------------------
+- Plaka KODU: 26 ---
+- Kent Isim: Eskisehir ----
+- Kent Bolge: IA ---
+- Komsu Sayisi: 6 -
+--------------------
+--------------------
+- Plaka KODU: 27 ---
+- Kent Isim: Gaziantep ----
+- Kent Bolge: GA ---
+- Komsu Sayisi: 6 -
+--------------------
+--------------------
+- Plaka KODU: 28 ---
+- Kent Isim: Giresun ----
+- Kent Bolge: KA ---
+- Komsu Sayisi: 5 -
+--------------------
+--------------------
+- Plaka KODU: 29 ---
+- Kent Isim: Gumushane ----
+- Kent Bolge: KA ---
+- Komsu Sayisi: 4 -
+--------------------
+--------------------
+- Plaka KODU: 30 ---
+- Kent Isim: Hakkari ----
+- Kent Bolge: DA ---
+- Komsu Sayisi: 2 -
+--------------------
+--------------------
+- Plaka KODU: 31 ---
+- Kent Isim: Hatay ----
+- Kent Bolge: AK ---
+- Komsu Sayisi: 4 -
+--------------------
+--------------------
+- Plaka KODU: 32 ---
+- Kent Isim: Isparta ----
+- Kent Bolge: AK ---
+- Komsu Sayisi: 4 -
+--------------------
+--------------------
+- Plaka KODU: 33 ---
+- Kent Isim: Mersin ----
+- Kent Bolge: AK ---
+- Komsu Sayisi: 5 -
+--------------------
+--------------------
+- Plaka KODU: 34 ---
+- Kent Isim: Istanbul ----
+- Kent Bolge: MA ---
+- Komsu Sayisi: 3 -
+--------------------
+--------------------
+- Plaka KODU: 35 ---
+- Kent Isim: Izmir ----
+- Kent Bolge: EG ---
+- Komsu Sayisi: 3 -
+--------------------
+--------------------
+- Plaka KODU: 36 ---
+- Kent Isim: Kars ----
+- Kent Bolge: DA ---
+- Komsu Sayisi: 4 -
+--------------------
+--------------------
+- Plaka KODU: 37 ---
+- Kent Isim: Kastamonu ----
+- Kent Bolge: KA ---
+- Komsu Sayisi: 5 -
+--------------------
+--------------------
+- Plaka KODU: 38 ---
+- Kent Isim: Kayseri ----
+- Kent Bolge: IA ---
+- Komsu Sayisi: 6 -
+--------------------
+--------------------
+- Plaka KODU: 39 ---
+- Kent Isim: Kirklareli ----
+- Kent Bolge: MA ---
+- Komsu Sayisi: 3 -
+--------------------
+--------------------
+- Plaka KODU: 40 ---
+- Kent Isim: Kirsehir ----
+- Kent Bolge: IA ---
+- Komsu Sayisi: 5 -
+--------------------
+--------------------
+- Plaka KODU: 41 ---
+- Kent Isim: Kocaeli ----
+- Kent Bolge: MA ---
+- Komsu Sayisi: 5 -
+--------------------
+--------------------
+- Plaka KODU: 42 ---
+- Kent Isim: Konya ----
+- Kent Bolge: IA ---
+- Komsu Sayisi: 9 -
+--------------------
+--------------------
+- Plaka KODU: 43 ---
+- Kent Isim: Kutahya ----
+- Kent Bolge: EG ---
+- Komsu Sayisi: 7 -
+--------------------
+--------------------
+- Plaka KODU: 44 ---
+- Kent Isim: Malatya ----
+- Kent Bolge: DA ---
+- Komsu Sayisi: 6 -
+--------------------
+--------------------
+- Plaka KODU: 45 ---
+- Kent Isim: Manisa ----
+- Kent Bolge: EG ---
+- Komsu Sayisi: 6 -
+--------------------
+--------------------
+- Plaka KODU: 46 ---
+- Kent Isim: Kahramanmaras ----
+- Kent Bolge: AK ---
+- Komsu Sayisi: 7 -
+--------------------
+--------------------
+- Plaka KODU: 47 ---
+- Kent Isim: Mardin ----
+- Kent Bolge: GA ---
+- Komsu Sayisi: 5 -
+--------------------
+--------------------
+- Plaka KODU: 48 ---
+- Kent Isim: Mugla ----
+- Kent Bolge: EG ---
+- Komsu Sayisi: 4 -
+--------------------
+--------------------
+- Plaka KODU: 49 ---
+- Kent Isim: Mus ----
+- Kent Bolge: DA ---
+- Komsu Sayisi: 6 -
+--------------------
+--------------------
+- Plaka KODU: 50 ---
+- Kent Isim: Nevsehir ----
+- Kent Bolge: IA ---
+- Komsu Sayisi: 5 -
+--------------------
+--------------------
+- Plaka KODU: 51 ---
+- Kent Isim: Nigde ----
+- Kent Bolge: IA ---
+- Komsu Sayisi: 6 -
+--------------------
+--------------------
+- Plaka KODU: 52 ---
+- Kent Isim: Ordu ----
+- Kent Bolge: KA ---
+- Komsu Sayisi: 4 -
+--------------------
+--------------------
+- Plaka KODU: 53 ---
+- Kent Isim: Rize ----
+- Kent Bolge: KA ---
+- Komsu Sayisi: 4 -
+--------------------
+--------------------
+- Plaka KODU: 54 ---
+- Kent Isim: Sakarya ----
+- Kent Bolge: MA ---
+- Komsu Sayisi: 5 -
+--------------------
+--------------------
+- Plaka KODU: 55 ---
+- Kent Isim: Samsun ----
+- Kent Bolge: KA ---
+- Komsu Sayisi: 5 -
+--------------------
+--------------------
+- Plaka KODU: 56 ---
+- Kent Isim: Siirt ----
+- Kent Bolge: GA ---
+- Komsu Sayisi: 5 -
+--------------------
+--------------------
+- Plaka KODU: 57 ---
+- Kent Isim: Sinop ----
+- Kent Bolge: KA ---
+- Komsu Sayisi: 3 -
+--------------------
+--------------------
+- Plaka KODU: 58 ---
+- Kent Isim: Sivas ----
+- Kent Bolge: IA ---
+- Komsu Sayisi: 8 -
+--------------------
+--------------------
+- Plaka KODU: 59 ---
+- Kent Isim: Tekirdag ----
+- Kent Bolge: MA ---
+- Komsu Sayisi: 4 -
+--------------------
+--------------------
+- Plaka KODU: 60 ---
+- Kent Isim: Tokat ----
+- Kent Bolge: KA ---
+- Komsu Sayisi: 5 -
+--------------------
+--------------------
+- Plaka KODU: 61 ---
+- Kent Isim: Trabzon ----
+- Kent Bolge: KA ---
+- Komsu Sayisi: 4 -
+--------------------
+--------------------
+- Plaka KODU: 62 ---
+- Kent Isim: Tunceli ----
+- Kent Bolge: DA ---
+- Komsu Sayisi: 3 -
+--------------------
+--------------------
+- Plaka KODU: 63 ---
+- Kent Isim: Sanliurfa ----
+- Kent Bolge: GA ---
+- Komsu Sayisi: 4 -
+--------------------
+--------------------
+- Plaka KODU: 64 ---
+- Kent Isim: Usak ----
+- Kent Bolge: EG ---
+- Komsu Sayisi: 4 -
+--------------------
+--------------------
+- Plaka KODU: 65 ---
+- Kent Isim: Van ----
+- Kent Bolge: DA ---
+- Komsu Sayisi: 5 -
+--------------------
+--------------------
+- Plaka KODU: 66 ---
+- Kent Isim: Yozgat ----
+- Kent Bolge: IA ---
+- Komsu Sayisi: 8 -
+--------------------
+--------------------
+- Plaka KODU: 67 ---
+- Kent Isim: Zonguldak ----
+- Kent Bolge: KA ---
+- Komsu Sayisi: 5 -
+--------------------
+--------------------
+- Plaka KODU: 68 ---
+- Kent Isim: Aksaray ----
+- Kent Bolge: IA ---
+- Komsu Sayisi: 5 -
+--------------------
+--------------------
+- Plaka KODU: 69 ---
+- Kent Isim: Bayburt ----
+- Kent Bolge: KA ---
+- Komsu Sayisi: 5 -
+--------------------
+--------------------
+- Plaka KODU: 70 ---
+- Kent Isim: Karaman ----
+- Kent Bolge: IA ---
+- Komsu Sayisi: 3 -
+--------------------
+--------------------
+- Plaka KODU: 71 ---
+- Kent Isim: Kirikkale ----
+- Kent Bolge: IA ---
+- Komsu Sayisi: 5 -
+--------------------
+--------------------
+- Plaka KODU: 72 ---
+- Kent Isim: Batman ----
+- Kent Bolge: GA ---
+- Komsu Sayisi: 5 -
+--------------------
+--------------------
+- Plaka KODU: 73 ---
+- Kent Isim: Sirnak ----
+- Kent Bolge: GA ---
+- Komsu Sayisi: 4 -
+--------------------
+--------------------
+- Plaka KODU: 74 ---
+- Kent Isim: Bartin ----
+- Kent Bolge: KA ---
+- Komsu Sayisi: 3 -
+--------------------
+--------------------
+- Plaka KODU: 75 ---
+- Kent Isim: Ardahan ----
+- Kent Bolge: DA ---
+- Komsu Sayisi: 3 -
+--------------------
+--------------------
+- Plaka KODU: 76 ---
+- Kent Isim: Igdir ----
+- Kent Bolge: DA ---
+- Komsu Sayisi: 2 -
+--------------------
+--------------------
+- Plaka KODU: 77 ---
+- Kent Isim: Yalova ----
+- Kent Bolge: MA ---
+- Komsu Sayisi: 2 -
+--------------------
+--------------------
+- Plaka KODU: 78 ---
+- Kent Isim: Karabuk ----
+- Kent Bolge: KA ---
+- Komsu Sayisi: 4 -
+--------------------
+--------------------
+- Plaka KODU: 79 ---
+- Kent Isim: Kilis ----
+- Kent Bolge: GA ---
+- Komsu Sayisi: 2 -
+--------------------
+--------------------
+- Plaka KODU: 80 ---
+- Kent Isim: Osmaniye ----
+- Kent Bolge: AK ---
+- Komsu Sayisi: 4 -
+--------------------
+--------------------
+- Plaka KODU: 81 ---
+- Kent Isim: Duzce ----
+- Kent Bolge: KA ---
+- Komsu Sayisi: 3 -
+--------------------

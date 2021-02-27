@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1577573602 source:c:\users\mert atay\desktop\c programlama\2019-2020\deneme\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<process.h>
+
+1577573602 source:c:\users\mert atay\desktop\raven'a ait\dersler\prolablar\prolab 3.proje\proje kaynak kod\deneme\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<process.h>
+
